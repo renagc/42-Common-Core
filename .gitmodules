@@ -1,7 +1,6 @@
 [submodule "libft"]
-	path = libft
+	path = rank_0/libft
 	url = https://github.com/renagc/42_libft.git
-
 [submodule "rank_1/ft_printf"]
 	path = rank_1/ft_printf
 	url = https://github.com/renagc/42_ft_printf.git
@@ -17,3 +16,21 @@
 [submodule "rank_2/pipex"]
 	path = rank_2/pipex
 	url = https://github.com/renagc/42_pipex.git
+[submodule "rank_3/philosophers"]
+	path = rank_3/philosophers
+	url = https://github.com/renagc/42_philosophers.git
+[submodule "rank_3/minishell"]
+	path = rank_3/minishell
+	url = https://github.com/Raflox/MiniShell.git
+[submodule "rank_4/minirt"]
+	path = rank_4/minirt
+	url = https://github.com/renagc/42_miniRT.git
+[submodule "rank_4/netpratice"]
+	path = rank_4/netpratice
+	url = https://github.com/renagc/42_netpratice.git
+[submodule "rank_5/cpp"]
+	path = rank_5/cpp
+	url = https://github.com/renagc/42_cpp.git
+[submodule "rank_5/inception"]
+	path = rank_5/inception
+	url = https://github.com/renagc/42_inception.git
