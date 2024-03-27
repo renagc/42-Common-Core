@@ -1,3 +1,19 @@
 [submodule "libft"]
 	path = libft
 	url = https://github.com/renagc/42_libft.git
+
+[submodule "rank_1/ft_printf"]
+	path = rank_1/ft_printf
+	url = https://github.com/renagc/42_ft_printf.git
+[submodule "rank_1/get_next_line"]
+	path = rank_1/get_next_line
+	url = https://github.com/renagc/42_get_next_line.git
+[submodule "rank_2/push_swap"]
+	path = rank_2/push_swap
+	url = https://github.com/renagc/42_push_swap.git
+[submodule "rank_2/so_long"]
+	path = rank_2/so_long
+	url = https://github.com/renagc/42_so_long.git
+[submodule "rank_2/pipex"]
+	path = rank_2/pipex
+	url = https://github.com/renagc/42_pipex.git
