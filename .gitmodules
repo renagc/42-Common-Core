@@ -1,6 +1,3 @@
-[submodule "libft"]
-	path = libft
-	url = https://github.com/renagc/42_libft
 [submodule "rank_1/ft_printf"]
 	path = rank_1/ft_printf
 	url = https://github.com/renagc/42_ft_printf.git
@@ -34,3 +31,6 @@
 [submodule "rank_5/inception"]
 	path = rank_5/inception
 	url = https://github.com/renagc/42_inception.git
+[submodule "rank_0/libft"]
+	path = rank_0/libft
+	url = https://github.com/renagc/42_libft
